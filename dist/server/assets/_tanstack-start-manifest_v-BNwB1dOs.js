@@ -1,7 +1,7 @@
 //#region \0tanstack-start-manifest:v
 var tsrStartManifest = () => ({ routes: {
 	__root__: {
-		filePath: "D:/ethereal/src/routes/__root.tsx",
+		filePath: "D:/empathai/src/routes/__root.tsx",
 		children: [
 			"/",
 			"/sanctuary",
@@ -15,7 +15,7 @@ var tsrStartManifest = () => ({ routes: {
 		} }]
 	},
 	"/": {
-		filePath: "D:/ethereal/src/routes/index.tsx",
+		filePath: "D:/empathai/src/routes/index.tsx",
 		children: void 0,
 		preloads: [
 			"/assets/routes-A4DgdkNo.js",
@@ -27,7 +27,7 @@ var tsrStartManifest = () => ({ routes: {
 		]
 	},
 	"/sanctuary": {
-		filePath: "D:/ethereal/src/routes/sanctuary.tsx",
+		filePath: "D:/empathai/src/routes/sanctuary.tsx",
 		children: [
 			"/sanctuary/chat",
 			"/sanctuary/crisis",
@@ -44,7 +44,7 @@ var tsrStartManifest = () => ({ routes: {
 		]
 	},
 	"/sanctuary/chat": {
-		filePath: "D:/ethereal/src/routes/sanctuary.chat.tsx",
+		filePath: "D:/empathai/src/routes/sanctuary.chat.tsx",
 		children: void 0,
 		preloads: [
 			"/assets/sanctuary.chat-Dj513bZN.js",
@@ -58,7 +58,7 @@ var tsrStartManifest = () => ({ routes: {
 		]
 	},
 	"/sanctuary/crisis": {
-		filePath: "D:/ethereal/src/routes/sanctuary.crisis.tsx",
+		filePath: "D:/empathai/src/routes/sanctuary.crisis.tsx",
 		children: void 0,
 		preloads: [
 			"/assets/sanctuary.crisis-OK_JO6m9.js",
@@ -69,7 +69,7 @@ var tsrStartManifest = () => ({ routes: {
 		]
 	},
 	"/sanctuary/insights": {
-		filePath: "D:/ethereal/src/routes/sanctuary.insights.tsx",
+		filePath: "D:/empathai/src/routes/sanctuary.insights.tsx",
 		children: void 0,
 		preloads: [
 			"/assets/sanctuary.insights-8njU0po0.js",
@@ -79,7 +79,7 @@ var tsrStartManifest = () => ({ routes: {
 		]
 	},
 	"/sanctuary/mirror": {
-		filePath: "D:/ethereal/src/routes/sanctuary.mirror.tsx",
+		filePath: "D:/empathai/src/routes/sanctuary.mirror.tsx",
 		children: void 0,
 		preloads: [
 			"/assets/sanctuary.mirror-DlALwoWl.js",
@@ -90,7 +90,7 @@ var tsrStartManifest = () => ({ routes: {
 		]
 	},
 	"/sanctuary/toolkit": {
-		filePath: "D:/ethereal/src/routes/sanctuary.toolkit.tsx",
+		filePath: "D:/empathai/src/routes/sanctuary.toolkit.tsx",
 		children: void 0,
 		preloads: [
 			"/assets/sanctuary.toolkit-K7mDkR4c.js",

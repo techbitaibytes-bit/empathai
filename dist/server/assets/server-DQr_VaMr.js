@@ -89,7 +89,7 @@ function getResponse() {
 * the dev styles URL for route-scoped CSS collection.
 */
 async function getStartManifest(matchedRoutes) {
-	const { tsrStartManifest } = await import("./_tanstack-start-manifest_v-D1imVQo1.js");
+	const { tsrStartManifest } = await import("./_tanstack-start-manifest_v-BNwB1dOs.js");
 	const startManifest = tsrStartManifest();
 	let routes = startManifest.routes;
 	routes[rootRouteId];
